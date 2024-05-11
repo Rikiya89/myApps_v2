@@ -1,0 +1,902 @@
+{
+	"archiveVersion": "1",
+	"classes": {},
+	"objectVersion": "54",
+	"objects": {
+		"006D5669-56FE-46B4-9D48-41715351EED5": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "EdgePass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/EdgePass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0468EC78-AE5A-45EF-AA79-32E5E241A858": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RGBShiftPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/RGBShiftPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0A079306-6310-48D1-B22F-DDF6F31985E5": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HorizontalTiltShifPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/HorizontalTiltShifPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1310BE2E-A8AA-4C85-941B-EFEBF65F8131": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "GodRaysPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/GodRaysPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"149BA3FA-6A29-46AA-B54D-1647F5819C05": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "VerticalTiltShifPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/VerticalTiltShifPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"164A7304-8042-4A9A-B409-5E8B2C087F32": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FakeSSSPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/FakeSSSPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"177618F2-2E17-496B-B942-B85D28C8B728": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "EdgePass.h",
+			"path": "../../../addons/ofxPostProcessing/src/EdgePass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"18CDCED8-AEAD-4CAD-89FD-D29FCC73D372": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LUTPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/LUTPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"191CD6FA2847E21E0085CBB6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.plist.entitlements",
+			"path": "of.entitlements",
+			"sourceTree": "<group>"
+		},
+		"191EF70929D778A400F35F26": {
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "folder",
+			"name": "openFrameworks",
+			"path": "../../../libs/openFrameworks",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"19B789C429E5AB4A0082E9B8": {
+			"buildActionMask": "2147483647",
+			"files": [],
+			"inputFileListPaths": [],
+			"inputPaths": [],
+			"isa": "PBXShellScriptBuildPhase",
+			"outputFileListPaths": [],
+			"outputPaths": [],
+			"runOnlyForDeploymentPostprocessing": "0",
+			"shellPath": "/bin/sh",
+			"shellScript": "\"$OF_PATH/scripts/osx/xcode_project.sh\"\n",
+			"showEnvVarsInLog": "0"
+		},
+		"212752C4-F40A-429B-9C08-AFA0755486A6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/DofPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"22A0B0BD-993A-4FEA-9283-581EAAE8A0BC": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BloomPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/BloomPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"23B10CD3-EED2-4F90-B4C8-703CB1D5016E": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "NoiseWarpPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/NoiseWarpPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2776B64D-DC6A-4F52-AFD9-0374EBEFC2EB": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FxaaPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/FxaaPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2BD27E7C-9EC2-4930-B172-A0B38427F2A5": {
+			"children": [
+				"C1FB5B6D-523F-4012-901D-B5A7B99FB1A9"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxPostProcessing",
+			"path": "../../../addons/ofxPostProcessing",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2ED919B6-63BB-400B-B362-C0E317284206": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BleachBypassPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/BleachBypassPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"31036907-BAED-47A0-8610-416844A0359C": {
+			"fileRef": "732738FD-140B-4ED9-9563-4D8582DD3C87",
+			"isa": "PBXBuildFile"
+		},
+		"35687C07-F310-47A8-AB8F-18BA6B1435D3": {
+			"fileRef": "5EF43511-6097-419B-8FEE-BFCB9B7A32BD",
+			"isa": "PBXBuildFile"
+		},
+		"38F05B02-C7E1-445A-8C71-68CDDA92457D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RGBShiftPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/RGBShiftPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3A4DA364-D12F-40DD-B3F9-18D76C5CECA4": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ConvolutionPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/ConvolutionPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3C6518B8-882E-47FC-B950-B62DA25C679D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofAltPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/DofAltPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3E4C57AF-FB5F-4AAA-A220-10DFAE760B0E": {
+			"fileRef": "2776B64D-DC6A-4F52-AFD9-0374EBEFC2EB",
+			"isa": "PBXBuildFile"
+		},
+		"48C6F6C1-2C9F-4ABB-9515-EB0917915328": {
+			"fileRef": "1310BE2E-A8AA-4C85-941B-EFEBF65F8131",
+			"isa": "PBXBuildFile"
+		},
+		"48CAFDAF-A99A-489B-8133-568EAB3D4772": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LimbDarkeningPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/LimbDarkeningPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"497BE80B-ED79-457E-AE8A-33BFDCF23BEB": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BleachBypassPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/BleachBypassPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5C5F8435-6BE3-4706-8A78-57F5909B745F": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ToonPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/ToonPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5D708521-8D8A-4F54-B555-59435581599F": {
+			"fileRef": "22A0B0BD-993A-4FEA-9283-581EAAE8A0BC",
+			"isa": "PBXBuildFile"
+		},
+		"5EF43511-6097-419B-8FEE-BFCB9B7A32BD": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/DofPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5FE97BE0-F681-4B1B-B199-23431226D23B": {
+			"fileRef": "BE708848-7FC4-4D60-90D7-BBDE0CDA2E0D",
+			"isa": "PBXBuildFile"
+		},
+		"61E998E5-FCCC-496B-AB7A-7A5108730C11": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PostProcessing.h",
+			"path": "../../../addons/ofxPostProcessing/src/PostProcessing.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"638A2AEF-7A58-482C-9BDA-5ECB283AEA21": {
+			"fileRef": "BF0D133F-CA6C-41B1-9BAD-5F3007846101",
+			"isa": "PBXBuildFile"
+		},
+		"68B9BC36-521D-41EA-8C9B-639053F3FE8C": {
+			"fileRef": "164A7304-8042-4A9A-B409-5E8B2C087F32",
+			"isa": "PBXBuildFile"
+		},
+		"68DD0AA2-48B8-4AE2-B32B-BBEA0B9C8F90": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ContrastPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/ContrastPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"6A6EC8BE-CA25-4137-AA1A-F237DBC7FBE1": {
+			"fileRef": "5C5F8435-6BE3-4706-8A78-57F5909B745F",
+			"isa": "PBXBuildFile"
+		},
+		"6B9E18D0-7F20-4FF3-B05B-AAFF6B9FD83C": {
+			"fileRef": "FE736B60-2F9F-48B9-9568-16EC645BB4CC",
+			"isa": "PBXBuildFile"
+		},
+		"6BD307D8-13DB-469C-A5DC-F2B86365CF65": {
+			"fileRef": "FCB29474-5C80-4B40-9643-7483510D5BB0",
+			"isa": "PBXBuildFile"
+		},
+		"70F5248D-6901-458B-A553-5FE3616C369A": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LimbDarkeningPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/LimbDarkeningPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"732738FD-140B-4ED9-9563-4D8582DD3C87": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RenderPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/RenderPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7390906C-93AC-41AF-BF55-97271E2C80B8": {
+			"fileRef": "18CDCED8-AEAD-4CAD-89FD-D29FCC73D372",
+			"isa": "PBXBuildFile"
+		},
+		"76322916-13C3-4BFC-9B07-90E7BD4CB3FE": {
+			"fileRef": "EB095168-0F57-4EE4-AA49-8B6ACBE6BD39",
+			"isa": "PBXBuildFile"
+		},
+		"782C0FFD-A3B8-4C54-BE60-B898FBDD283C": {
+			"fileRef": "B78018C2-C3EC-4438-AE7D-DAAC37A1F092",
+			"isa": "PBXBuildFile"
+		},
+		"7A29A8DB-8B88-425E-8DE3-E7E416F1DD32": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PixelatePass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/PixelatePass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"881412EE-5AA1-43A2-8B66-354EDCB354BD": {
+			"fileRef": "D33C998D-B3B5-4F1F-921D-D2B75BDE68BF",
+			"isa": "PBXBuildFile"
+		},
+		"8B59265D-7618-466F-A11E-EC52339959BB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ZoomBlurPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/ZoomBlurPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8D6DF40C-C190-47C8-92B6-D3C68EE03FCE": {
+			"fileRef": "497BE80B-ED79-457E-AE8A-33BFDCF23BEB",
+			"isa": "PBXBuildFile"
+		},
+		"91060A94-F8FB-46E0-86B0-F3B26FC0CED6": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RimHighlightingPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/RimHighlightingPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"95244162-780E-44F5-BE5A-5549B5FB365F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RimHighlightingPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/RimHighlightingPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9D000C06-6817-44EB-AEAB-44C17EB9F6C2": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "GodRaysPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/GodRaysPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9FA38FB6-A4DC-44DB-82EC-564EB753CC1F": {
+			"fileRef": "3A4DA364-D12F-40DD-B3F9-18D76C5CECA4",
+			"isa": "PBXBuildFile"
+		},
+		"A0435B22-6A81-4522-BECD-E18ACB70D294": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "NoiseWarpPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/NoiseWarpPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"A2C6721C-BAC3-4939-A32D-BB3F30361E46": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "KaleidoscopePass.h",
+			"path": "../../../addons/ofxPostProcessing/src/KaleidoscopePass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"A76BC198-F23C-4FB8-B80E-95C20DFBB528": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SSAOPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/SSAOPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"AB3E51AA-54D8-42D5-A5B7-845FA6532858": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HsbShiftPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/HsbShiftPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"ACA82496-9A4C-4E71-8BE3-8D5EEBB75D50": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BloomPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/BloomPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"AF4F4961-C9F6-4B64-86B6-A089E178C338": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LUTPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/LUTPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B24AA929-75DA-4CEA-A131-A6E2C26434CF": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ConvolutionPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/ConvolutionPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B3D95757-AED4-4ACF-ADFC-F98DF1F5ED95": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "VerticalTiltShifPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/VerticalTiltShifPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B78018C2-C3EC-4438-AE7D-DAAC37A1F092": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofAltPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/DofAltPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B7BC6759-BAB8-436A-B146-663C26906DDB": {
+			"fileRef": "006D5669-56FE-46B4-9D48-41715351EED5",
+			"isa": "PBXBuildFile"
+		},
+		"BB4B014C10F69532006C3DED": {
+			"children": [
+				"2BD27E7C-9EC2-4930-B172-A0B38427F2A5"
+			],
+			"isa": "PBXGroup",
+			"name": "addons",
+			"path": "../../../addons",
+			"sourceTree": "<group>"
+		},
+		"BBE6E0B4-977F-4033-8D73-06278D9A575E": {
+			"fileRef": "23B10CD3-EED2-4F90-B4C8-703CB1D5016E",
+			"isa": "PBXBuildFile"
+		},
+		"BE708848-7FC4-4D60-90D7-BBDE0CDA2E0D": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HorizontalTiltShifPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/HorizontalTiltShifPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BF0D133F-CA6C-41B1-9BAD-5F3007846101": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HsbShiftPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/HsbShiftPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C1754D48-A90A-4B92-9E16-568BE2D2284B": {
+			"fileRef": "70F5248D-6901-458B-A553-5FE3616C369A",
+			"isa": "PBXBuildFile"
+		},
+		"C1FB5B6D-523F-4012-901D-B5A7B99FB1A9": {
+			"children": [
+				"497BE80B-ED79-457E-AE8A-33BFDCF23BEB",
+				"2ED919B6-63BB-400B-B362-C0E317284206",
+				"22A0B0BD-993A-4FEA-9283-581EAAE8A0BC",
+				"ACA82496-9A4C-4E71-8BE3-8D5EEBB75D50",
+				"EB095168-0F57-4EE4-AA49-8B6ACBE6BD39",
+				"68DD0AA2-48B8-4AE2-B32B-BBEA0B9C8F90",
+				"3A4DA364-D12F-40DD-B3F9-18D76C5CECA4",
+				"B24AA929-75DA-4CEA-A131-A6E2C26434CF",
+				"B78018C2-C3EC-4438-AE7D-DAAC37A1F092",
+				"3C6518B8-882E-47FC-B950-B62DA25C679D",
+				"5EF43511-6097-419B-8FEE-BFCB9B7A32BD",
+				"212752C4-F40A-429B-9C08-AFA0755486A6",
+				"006D5669-56FE-46B4-9D48-41715351EED5",
+				"177618F2-2E17-496B-B942-B85D28C8B728",
+				"164A7304-8042-4A9A-B409-5E8B2C087F32",
+				"E24509F0-5653-4710-8C6C-6B9E719B96E6",
+				"2776B64D-DC6A-4F52-AFD9-0374EBEFC2EB",
+				"D7252BED-8C03-418C-9F5E-2950D2689A83",
+				"1310BE2E-A8AA-4C85-941B-EFEBF65F8131",
+				"9D000C06-6817-44EB-AEAB-44C17EB9F6C2",
+				"BE708848-7FC4-4D60-90D7-BBDE0CDA2E0D",
+				"0A079306-6310-48D1-B22F-DDF6F31985E5",
+				"BF0D133F-CA6C-41B1-9BAD-5F3007846101",
+				"AB3E51AA-54D8-42D5-A5B7-845FA6532858",
+				"FCB29474-5C80-4B40-9643-7483510D5BB0",
+				"A2C6721C-BAC3-4939-A32D-BB3F30361E46",
+				"18CDCED8-AEAD-4CAD-89FD-D29FCC73D372",
+				"AF4F4961-C9F6-4B64-86B6-A089E178C338",
+				"70F5248D-6901-458B-A553-5FE3616C369A",
+				"48CAFDAF-A99A-489B-8133-568EAB3D4772",
+				"23B10CD3-EED2-4F90-B4C8-703CB1D5016E",
+				"A0435B22-6A81-4522-BECD-E18ACB70D294",
+				"7A29A8DB-8B88-425E-8DE3-E7E416F1DD32",
+				"EC82AC3A-69C6-4D68-A926-0627A1FBC66D",
+				"D33C998D-B3B5-4F1F-921D-D2B75BDE68BF",
+				"61E998E5-FCCC-496B-AB7A-7A5108730C11",
+				"0468EC78-AE5A-45EF-AA79-32E5E241A858",
+				"38F05B02-C7E1-445A-8C71-68CDDA92457D",
+				"732738FD-140B-4ED9-9563-4D8582DD3C87",
+				"CB4E07EE-244E-4878-BDC4-192849E17233",
+				"91060A94-F8FB-46E0-86B0-F3B26FC0CED6",
+				"95244162-780E-44F5-BE5A-5549B5FB365F",
+				"D4FF9137-77E8-4411-98FE-175C5A6E36FD",
+				"A76BC198-F23C-4FB8-B80E-95C20DFBB528",
+				"5C5F8435-6BE3-4706-8A78-57F5909B745F",
+				"CCBDF37C-698F-4D99-A40D-12BB46602919",
+				"149BA3FA-6A29-46AA-B54D-1647F5819C05",
+				"B3D95757-AED4-4ACF-ADFC-F98DF1F5ED95",
+				"FE736B60-2F9F-48B9-9568-16EC645BB4CC",
+				"8B59265D-7618-466F-A11E-EC52339959BB",
+				"F9A02363-C3AC-433D-BFE2-C99273615B8F"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"path": "../../../addons/ofxPostProcessing/src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"CB4E07EE-244E-4878-BDC4-192849E17233": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RenderPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/RenderPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"CCBDF37C-698F-4D99-A40D-12BB46602919": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ToonPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/ToonPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D33C998D-B3B5-4F1F-921D-D2B75BDE68BF": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PostProcessing.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/PostProcessing.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D4FF9137-77E8-4411-98FE-175C5A6E36FD": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SSAOPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/SSAOPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D554EF59-3AB9-4FBA-A810-DF4C9A7BB72E": {
+			"fileRef": "7A29A8DB-8B88-425E-8DE3-E7E416F1DD32",
+			"isa": "PBXBuildFile"
+		},
+		"D7252BED-8C03-418C-9F5E-2950D2689A83": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FxaaPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/FxaaPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E24509F0-5653-4710-8C6C-6B9E719B96E6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FakeSSSPass.h",
+			"path": "../../../addons/ofxPostProcessing/src/FakeSSSPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E309EA36-2442-4AC5-A947-9A24ABCFA24F": {
+			"fileRef": "149BA3FA-6A29-46AA-B54D-1647F5819C05",
+			"isa": "PBXBuildFile"
+		},
+		"E42962A92163ECCD00A6A9E2": {
+			"alwaysOutOfDate": "1",
+			"buildActionMask": "2147483647",
+			"files": [],
+			"inputPaths": [],
+			"isa": "PBXShellScriptBuildPhase",
+			"name": "Run Script — Compile OF",
+			"outputPaths": [],
+			"runOnlyForDeploymentPostprocessing": "0",
+			"shellPath": "/bin/sh",
+			"shellScript": "echo \"💾 Compiling Openframeworks\"\nxcodebuild -project \"$OF_PATH/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj\" -target openFrameworks -configuration \"${CONFIGURATION}\"  CLANG_CXX_LANGUAGE_STANDARD=$CLANG_CXX_LANGUAGE_STANDARD MACOSX_DEPLOYMENT_TARGET=$MACOSX_DEPLOYMENT_TARGET GCC_PREPROCESSOR_DEFINITIONS=$USER_PREPROCESSOR_DEFINITIONS\n",
+			"showEnvVarsInLog": "0"
+		},
+		"E4A5B60F29BAAAE400C2D356": {
+			"buildActionMask": "2147483647",
+			"dstPath": "",
+			"dstSubfolderSpec": "6",
+			"files": [],
+			"isa": "PBXCopyFilesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B4A0A3A1720003C02F2": {
+			"children": [
+				"191CD6FA2847E21E0085CBB6",
+				"E4B6FCAD0C3E899E008CF71C",
+				"E4EB6923138AFD0F00A09F29",
+				"E4B69E1C0A3A1BDC003C02F2",
+				"191EF70929D778A400F35F26",
+				"BB4B014C10F69532006C3DED",
+				"E4B69B5B0A3A1756003C02F2"
+			],
+			"isa": "PBXGroup",
+			"sourceTree": "<group>"
+		},
+		"E4B69B4C0A3A1720003C02F2": {
+			"attributes": {
+				"LastUpgradeCheck": "0600"
+			},
+			"buildConfigurationList": "E4B69B4D0A3A1720003C02F2",
+			"compatibilityVersion": "Xcode 3.2",
+			"developmentRegion": "en",
+			"hasScannedForEncodings": "0",
+			"isa": "PBXProject",
+			"knownRegions": [
+				"en",
+				"Base"
+			],
+			"mainGroup": "E4B69B4A0A3A1720003C02F2",
+			"productRefGroup": "E4B69B4A0A3A1720003C02F2",
+			"projectDirPath": "",
+			"projectRoot": "",
+			"targets": [
+				"E4B69B5A0A3A1756003C02F2"
+			]
+		},
+		"E4B69B4D0A3A1720003C02F2": {
+			"buildConfigurations": [
+				"E4B69B4E0A3A1720003C02F2",
+				"E4B69B4F0A3A1720003C02F2"
+			],
+			"defaultConfigurationIsVisible": "0",
+			"defaultConfigurationName": "Release",
+			"isa": "XCConfigurationList"
+		},
+		"E4B69B4E0A3A1720003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"CODE_SIGN_ENTITLEMENTS": "of.entitlements",
+				"COPY_PHASE_STRIP": "NO",
+				"ENABLE_TESTABILITY": "YES",
+				"GCC_OPTIMIZATION_LEVEL": "0",
+				"GCC_WARN_UNUSED_VARIABLE": "NO",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src"
+				],
+				"OTHER_CPLUSPLUSFLAGS": "-D__MACOSX_CORE__"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Debug"
+		},
+		"E4B69B4F0A3A1720003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"CODE_SIGN_ENTITLEMENTS": "of.entitlements",
+				"COPY_PHASE_STRIP": "YES",
+				"GCC_OPTIMIZATION_LEVEL": "3",
+				"GCC_UNROLL_LOOPS": "YES",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src"
+				],
+				"OTHER_CPLUSPLUSFLAGS": "-D__MACOSX_CORE__"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Release"
+		},
+		"E4B69B580A3A1756003C02F2": {
+			"buildActionMask": "2147483647",
+			"files": [
+				"E4B69E200A3A1BDC003C02F2",
+				"E4B69E210A3A1BDC003C02F2",
+				"8D6DF40C-C190-47C8-92B6-D3C68EE03FCE",
+				"5D708521-8D8A-4F54-B555-59435581599F",
+				"76322916-13C3-4BFC-9B07-90E7BD4CB3FE",
+				"9FA38FB6-A4DC-44DB-82EC-564EB753CC1F",
+				"782C0FFD-A3B8-4C54-BE60-B898FBDD283C",
+				"35687C07-F310-47A8-AB8F-18BA6B1435D3",
+				"B7BC6759-BAB8-436A-B146-663C26906DDB",
+				"68B9BC36-521D-41EA-8C9B-639053F3FE8C",
+				"3E4C57AF-FB5F-4AAA-A220-10DFAE760B0E",
+				"48C6F6C1-2C9F-4ABB-9515-EB0917915328",
+				"5FE97BE0-F681-4B1B-B199-23431226D23B",
+				"638A2AEF-7A58-482C-9BDA-5ECB283AEA21",
+				"6BD307D8-13DB-469C-A5DC-F2B86365CF65",
+				"7390906C-93AC-41AF-BF55-97271E2C80B8",
+				"C1754D48-A90A-4B92-9E16-568BE2D2284B",
+				"BBE6E0B4-977F-4033-8D73-06278D9A575E",
+				"D554EF59-3AB9-4FBA-A810-DF4C9A7BB72E",
+				"881412EE-5AA1-43A2-8B66-354EDCB354BD",
+				"E967F265-0269-4E42-920A-24C65395A4A4",
+				"31036907-BAED-47A0-8610-416844A0359C",
+				"F0C6A6B3-2A66-40E1-AAAB-F6B1D44EFBEB",
+				"EC9EF75A-C9F6-498E-92CE-8BA51F3DF556",
+				"6A6EC8BE-CA25-4137-AA1A-F237DBC7FBE1",
+				"E309EA36-2442-4AC5-A947-9A24ABCFA24F",
+				"6B9E18D0-7F20-4FF3-B05B-AAFF6B9FD83C"
+			],
+			"isa": "PBXSourcesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B590A3A1756003C02F2": {
+			"buildActionMask": "2147483647",
+			"files": [],
+			"isa": "PBXFrameworksBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B5A0A3A1756003C02F2": {
+			"buildConfigurationList": "E4B69B5F0A3A1757003C02F2",
+			"buildPhases": [
+				"E42962A92163ECCD00A6A9E2",
+				"E4B69B580A3A1756003C02F2",
+				"E4B69B590A3A1756003C02F2",
+				"E4C2427710CC5ABF004149E2",
+				"E4A5B60F29BAAAE400C2D356",
+				"19B789C429E5AB4A0082E9B8"
+			],
+			"buildRules": [],
+			"dependencies": [],
+			"isa": "PBXNativeTarget",
+			"name": "20240415",
+			"productName": "myOFApp",
+			"productReference": "E4B69B5B0A3A1756003C02F2",
+			"productType": "com.apple.product-type.application"
+		},
+		"E4B69B5B0A3A1756003C02F2": {
+			"explicitFileType": "wrapper.application",
+			"includeInIndex": "0",
+			"isa": "PBXFileReference",
+			"path": "20240415Debug.app",
+			"sourceTree": "BUILT_PRODUCTS_DIR"
+		},
+		"E4B69B5F0A3A1757003C02F2": {
+			"buildConfigurations": [
+				"E4B69B600A3A1757003C02F2",
+				"E4B69B610A3A1757003C02F2"
+			],
+			"defaultConfigurationIsVisible": "0",
+			"defaultConfigurationName": "Release",
+			"isa": "XCConfigurationList"
+		},
+		"E4B69B600A3A1757003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"ARCHS": "$(ARCHS_STANDARD)",
+				"COPY_PHASE_STRIP": "NO",
+				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
+				"GCC_DYNAMIC_NO_PIC": "NO",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src",
+					"src",
+					"../../../addons/ofxPostProcessing/src"
+				],
+				"LIBRARY_SEARCH_PATHS": "$(inherited)",
+				"OTHER_LDFLAGS": [
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF_DEBUG)"
+				]
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Debug"
+		},
+		"E4B69B610A3A1757003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"ARCHS": "$(ARCHS_STANDARD)",
+				"COPY_PHASE_STRIP": "YES",
+				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src",
+					"src",
+					"../../../addons/ofxPostProcessing/src"
+				],
+				"LIBRARY_SEARCH_PATHS": "$(inherited)",
+				"OTHER_LDFLAGS": [
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF)"
+				],
+				"baseConfigurationReference": "E4EB6923138AFD0F00A09F29"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Release"
+		},
+		"E4B69E1C0A3A1BDC003C02F2": {
+			"children": [
+				"E4B69E1D0A3A1BDC003C02F2",
+				"E4B69E1E0A3A1BDC003C02F2",
+				"E4B69E1F0A3A1BDC003C02F2"
+			],
+			"isa": "PBXGroup",
+			"path": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1D0A3A1BDC003C02F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "main.cpp",
+			"path": "src/main.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1E0A3A1BDC003C02F2": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofApp.cpp",
+			"path": "src/ofApp.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1F0A3A1BDC003C02F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.c.h",
+			"name": "ofApp.h",
+			"path": "src/ofApp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E200A3A1BDC003C02F2": {
+			"fileRef": "E4B69E1D0A3A1BDC003C02F2",
+			"isa": "PBXBuildFile"
+		},
+		"E4B69E210A3A1BDC003C02F2": {
+			"fileRef": "E4B69E1E0A3A1BDC003C02F2",
+			"isa": "PBXBuildFile"
+		},
+		"E4B6FCAD0C3E899E008CF71C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.plist.xml",
+			"path": "openFrameworks-Info.plist",
+			"sourceTree": "<group>"
+		},
+		"E4C2427710CC5ABF004149E2": {
+			"buildActionMask": "2147483647",
+			"dstPath": "",
+			"dstSubfolderSpec": "10",
+			"files": [],
+			"isa": "PBXCopyFilesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4EB6923138AFD0F00A09F29": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.xcconfig",
+			"path": "Project.xcconfig",
+			"sourceTree": "<group>"
+		},
+		"E967F265-0269-4E42-920A-24C65395A4A4": {
+			"fileRef": "0468EC78-AE5A-45EF-AA79-32E5E241A858",
+			"isa": "PBXBuildFile"
+		},
+		"EB095168-0F57-4EE4-AA49-8B6ACBE6BD39": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ContrastPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/ContrastPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"EC82AC3A-69C6-4D68-A926-0627A1FBC66D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PixelatePass.h",
+			"path": "../../../addons/ofxPostProcessing/src/PixelatePass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"EC9EF75A-C9F6-498E-92CE-8BA51F3DF556": {
+			"fileRef": "D4FF9137-77E8-4411-98FE-175C5A6E36FD",
+			"isa": "PBXBuildFile"
+		},
+		"F0C6A6B3-2A66-40E1-AAAB-F6B1D44EFBEB": {
+			"fileRef": "91060A94-F8FB-46E0-86B0-F3B26FC0CED6",
+			"isa": "PBXBuildFile"
+		},
+		"F9A02363-C3AC-433D-BFE2-C99273615B8F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxPostProcessing.h",
+			"path": "../../../addons/ofxPostProcessing/src/ofxPostProcessing.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FCB29474-5C80-4B40-9643-7483510D5BB0": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "KaleidoscopePass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/KaleidoscopePass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FE736B60-2F9F-48B9-9568-16EC645BB4CC": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ZoomBlurPass.cpp",
+			"path": "../../../addons/ofxPostProcessing/src/ZoomBlurPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		}
+	},
+	"openFrameworksProjectGeneratorVersion": "21",
+	"rootObject": "E4B69B4C0A3A1720003C02F2"
+}
