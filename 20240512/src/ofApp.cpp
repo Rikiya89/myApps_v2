@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup() {
     image.load("stars.png");
-    image.resize(330, 330);
+    image.resize(300, 300);
 
     mesh.setMode(OF_PRIMITIVE_LINES);
     mesh.enableColors();
