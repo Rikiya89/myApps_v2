@@ -192,6 +192,7 @@
 				"GCC_DYNAMIC_NO_PIC": "NO",
 				"HEADER_SEARCH_PATHS": [
 					"$(OF_CORE_HEADERS)",
+					"src",
 					"src"
 				],
 				"LIBRARY_SEARCH_PATHS": "$(inherited)",
@@ -212,6 +213,7 @@
 				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
 				"HEADER_SEARCH_PATHS": [
 					"$(OF_CORE_HEADERS)",
+					"src",
 					"src"
 				],
 				"LIBRARY_SEARCH_PATHS": "$(inherited)",
