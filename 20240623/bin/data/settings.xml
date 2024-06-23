@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<group>
+	<Particle_Count>10</Particle_Count>
+	<Particle_Speed>8.119</Particle_Speed>
+	<Blob_Alpha>100</Blob_Alpha>
+	<Background_Alpha>255</Background_Alpha>
+	<Glow_Radius>10</Glow_Radius>
+</group>
